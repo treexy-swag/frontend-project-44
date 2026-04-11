@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Brain Games - набор консольных игр для тренировки ума",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "main": "bin/brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/твой-username/твой-репозиторий.git"
+  },
+  "keywords": [
+    "brain-games",
+    "hexlet",
+    "console-games",
+    "education"
+  ],
+  "author": "Denis",
+  "license": "ISC"
+}
