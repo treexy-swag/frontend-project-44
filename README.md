@@ -16,3 +16,7 @@
 
 **brain-progression (Арифметическая прогрессия)**
 [![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/X2nhrliMVcHN0QLx)   
+
+**brain-prime (Простое ли число?)**
+[![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/IK9xlagwdM3laADP)   
+
