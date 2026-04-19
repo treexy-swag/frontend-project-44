@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+// brain-gcd
+
 import { greetUser } from '../src/cli.js';
 import { playGame } from '../src/engine.js';
 import { generateGcdQuestion, getGcdCorrectAnswer } from '../src/games/gcd.js';

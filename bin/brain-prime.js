@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+// brain-prime
+
 import { greetUser } from '../src/cli.js';
 import { playGame } from '../src/engine.js';
 import { generatePrimeQuestion, isPrime } from '../src/games/prime.js';

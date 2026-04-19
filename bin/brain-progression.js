@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+// brain-progression
+
 import { greetUser } from '../src/cli.js';
 import { playGame } from '../src/engine.js';
 import { generateProgressionQuestion, getProgressionCorrectAnswer } from '../src/games/progression.js';
