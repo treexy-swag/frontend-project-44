@@ -5,11 +5,20 @@ export const playGame = ({ name, generateQuestion, getCorrectAnswer }) => {
   const rounds = 3;
 
   while (correctCount < rounds) {
-    const question = generateQuestion();
+    const questionData = generateQuestion();
+    
+    
+    const question = typeof questionData === 'string' 
+      ? questionData 
+      : questionData.question;
+
+    const correct = typeof questionData === 'string'
+      ? getCorrectAnswer(question)
+      : questionData.answer;   
+
     console.log(`Question: ${question}`);
 
-    const answer = readlineSync.question('Your answer: ').trim().toLowerCase();
-    const correct = getCorrectAnswer(question);
+    const answer = readlineSync.question('Your answer: ').trim();
 
     if (answer === correct) {
       console.log('Correct!');

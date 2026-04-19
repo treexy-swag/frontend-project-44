@@ -9,8 +9,10 @@
 
 **brain-calc (Калькулятор)**
 
-[![asciicast](https://asciinema.org/a/YYYYYY.svg)](https://asciinema.org/a/mLUWNkkPWASX10Fp)   
+[![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/mLUWNkkPWASX10Fp)   
 
 **brain-gcd (НОД)**
-[![asciicast](https://asciinema.org/a/YYYYYY.svg)](https://asciinema.org/a/KSlOnw2hYIu7t3Xs)   
-    
+[![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/KSlOnw2hYIu7t3Xs)   
+
+**brain-progression (Арифметическая прогрессия)**
+[![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/X2nhrliMVcHN0QLx)   
