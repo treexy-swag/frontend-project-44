@@ -5,3 +5,6 @@
 
 [![asciicast](https://asciinema.org/a/XXXXXXXXXXXX.svg)](https://asciinema.org/a/E6Z1nQKVtpcJt05q)
 
+**brain-calc (Калькулятор)**
+
+[![asciicast](https://asciinema.org/a/YYYYYY.svg)](https://asciinema.org/a/mLUWNkkPWASX10Fp)   
